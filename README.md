@@ -47,6 +47,10 @@ The third code block prompts the user to input the number of customers and their
 
 The fourth code block achieves the same height conversion functionality as the third one but utilizes list comprehension for a more concise implementation.
 
+### Video link
+
+[https://drive.google.com/file/d/1dYF5oNW7anN2fUE7exAi2aRTDEpSPNef/view?usp=sharing]
+
 ### Usage
 
 1. Run the script.
